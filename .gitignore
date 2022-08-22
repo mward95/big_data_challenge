@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+Instructions
+.vscode
+.ipynb_checkpoints
+help
 __pycache__/
 *.py[cod]
 *$py.class
